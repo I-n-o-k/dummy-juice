@@ -8,8 +8,8 @@
 
 set -e
 
-DEVICE=**** FILL IN DEVICE NAME ****
-VENDOR=**** FILL IN VENDOR NAME ****
+DEVICE=juice
+VENDOR=xiaomi
 
 # Load extract_utils and do some sanity checks
 MY_DIR="${BASH_SOURCE%/*}"
